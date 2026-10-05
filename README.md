@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor em formação | Tecnologia da Informação | Programação & Cibersegurança**
 
-Sou estudante de **Gestão da Tecnologia da Informação** no Instituto Federal do Sertão Pernambucano (IFSertãoPE) e estou construindo minha trajetória na área de tecnologia, com foco em **desenvolvimento de software e cibersegurança**.
+Sou estudante de **Gestão da Tecnologia da Informação** no Instituto Federal do Sertão Pernambucano (IFSertãoPE) e estou construindo minha trajetória na área de tecnologia, com foco em **desenvolvimento de software e web**.
 
 Gosto de aprender na prática, desenvolver projetos reais e transformar ideias em aplicações funcionais.
 
@@ -81,7 +81,7 @@ Sistema web desenvolvido para uma açaiteria, com foco em proporcionar uma exper
 
 ## 🎯 Objetivo
 
-Busco uma oportunidade na área de **Tecnologia da Informação**, especialmente em desenvolvimento de software ou cibersegurança, enquanto continuo aprimorando meus conhecimentos através de projetos reais.
+Busco uma oportunidade na área de **Tecnologia da Informação**, especialmente em desenvolvimento de software ou web, enquanto continuo aprimorando meus conhecimentos através de projetos reais.
 
 > **Aprender na prática. Construir. Evoluir. 🚀**
 
