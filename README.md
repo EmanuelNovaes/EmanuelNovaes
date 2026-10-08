@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Emanuel Novaes
+# Olá! Eu sou Emanuel Novaes
 
 💻 **Desenvolvedor em formação | Tecnologia da Informação | Programação & Cibersegurança**
 
@@ -52,7 +52,7 @@ Gosto de aprender na prática, desenvolver projetos reais e transformar ideias e
 
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos em destaque
 
 ### 🍇 Açaiteria Alves
 
@@ -75,7 +75,17 @@ Sistema web desenvolvido para uma açaiteria, com foco em proporcionar uma exper
 * 📲 Finalização de pedidos pelo WhatsApp
 * ⏰ Controle de horário de funcionamento
 
-🔗 **Repositório:** [github.com/EmanuelNovaes/ACAITERIA-ALVES](https://github.com/EmanuelNovaes/ACAITERIA-ALVES)
+🔗 **Repositório:** `EmanuelNovaes/ACAITERIA-ALVES`
+
+---
+
+### 🐉 Dragon Ball — O Limite dos Deuses
+
+Projeto de jogo inspirado no universo de **Dragon Ball**, desenvolvido como um projeto prático para aplicar conhecimentos de programação e desenvolvimento de jogos.
+
+O projeto tem como objetivo explorar a criação de uma experiência interativa baseada em batalhas e no universo de Dragon Ball.
+
+🔗 **Repositório:** `EmanuelNovaes/Dragon-ball---O-limite-dos-deuses`
 
 ---
 
